@@ -17,3 +17,5 @@ print("{0}, {1}".format(word_1, word_2))
 print("%s, %s" % (word_1, word_2))
 # variant_6
 print(f'{word_1}, {word_2}')
+print("End of program")
+
