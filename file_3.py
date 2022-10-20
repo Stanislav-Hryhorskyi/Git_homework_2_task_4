@@ -11,4 +11,4 @@ x2 = (-b - (b**2 - 4*a*c)**0.5)/(2*a)
 
 print(f'The first root of a quadratic equation: x1 = {x1}')
 print(f'The second root of a quadratic equation: x2 = {x2}')
-
+print('Completion of the program!')
