@@ -9,6 +9,6 @@ print(bool(qwerty))
 
 print(boolean_1)
 print(boolean_2)
+print(bool("")
+print(bool(None))
 
-class PressureInPipeline:
-    pass
