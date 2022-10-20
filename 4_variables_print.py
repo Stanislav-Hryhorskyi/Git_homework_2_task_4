@@ -12,3 +12,4 @@ print(info)
 info = 15
 print(type(info))
 print(info)
+print(id(name), id(age))
